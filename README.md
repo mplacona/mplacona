@@ -13,15 +13,13 @@
 
 > Building developer tools and helping companies create thriving developer communities. After a decade leading DevRel at companies like Twilio and Circle, I'm now building products and sharing what I've learned.
 
-🎯 **Group Manager @ [DevRel Foundation](https://dev-rel.org)** — Shaping the future of Developer Relations
+🎯 **Founder @ [DevRel Bridge](https://devrelbridge.com)** — Shaping the future of Developer Relations
 
 ## Current Projects
 
-- 🌉 **[DevRel Bridge](https://devrelbridge.com)** — Fractional DevRel strategy for market leaders
 - 📊 **[LinkIntel](https://getlinkintel.com)** — Track, optimize, and benchmark LinkedIn performance
 - 🚀 **[JustDeploy](https://justdeploy.tech)** — Deploy to your server in minutes, not weeks
 - 🧩 **[MicroWidgets](https://microwidgets.dev)** — Website widgets that convert for developers who'd rather code
-- 🔍 **[ThreadScout](https://github.com/mplacona/ThreadScout)** — Reddit opportunity finder with AI-powered reply drafting
 
 ## Career Highlights
 

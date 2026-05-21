@@ -17,8 +17,8 @@
 
 ## Current Projects
 
+- 💧 **[MentionDrop](https://mentiondrop.com)** — MentionDrop catches every web mention of your brand and your competitors in minutes.
 - 📊 **[LinkIntel](https://getlinkintel.com)** — Track, optimize, and benchmark LinkedIn performance
-- 🚀 **[JustDeploy](https://justdeploy.tech)** — Deploy to your server in minutes, not weeks
 - 🧩 **[MicroWidgets](https://microwidgets.dev)** — Website widgets that convert for developers who'd rather code
 
 ## Career Highlights

@@ -1,6 +1,8 @@
 # Hi, I'm Marcos 👋
 
-📍 **London, UK** | 🎤 **DevRel Leader & Speaker** | 🚀 **Founder & Solopreneur**
+📍 **Bedfordshire, UK** | 🎤 **DevRel Leader & Speaker** | 🚀 **Founder & Solopreneur**
+
+🪪 **[marcos.md](https://marcos.md)**: who I am, what I work on and how to reach me, in one page written for people and AI agents.
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
@@ -17,9 +19,10 @@
 
 ## Current Projects
 
-- 💧 **[MentionDrop](https://mentiondrop.com)** — MentionDrop catches every web mention of your brand and your competitors in minutes.
-- 📊 **[LinkIntel](https://getlinkintel.com)** — Track, optimize, and benchmark LinkedIn performance
-- 🧩 **[MicroWidgets](https://microwidgets.dev)** — Website widgets that convert for developers who'd rather code
+- 💧 **[MentionDrop](https://www.mentiondrop.com)** — Brand mention monitoring for small SaaS teams and AI agents: Reddit, news and the web, with the evidence attached.
+- 📊 **[LinkIntel](https://www.getlinkintel.com)** — An MCP server that gives your AI assistant your own X post results and X's ranking code before it drafts.
+- ⌨️ **[KeyStrokes](https://www.keystrok.es)** — Chrome extension that types and fills forms realistically for screen-recorded demos.
+- 📄 **[devrel.md](https://devrel.md)** — An open spec and agent skills for describing a developer funnel in one Markdown file.
 
 ## Career Highlights
 
@@ -60,6 +63,7 @@ Created and led international DevRel programs that helped establish Twilio as th
 
 ## Connect
 
+[![marcos.md](https://img.shields.io/badge/-marcos.md-0B6B4A?style=flat-square&logo=markdown&logoColor=white)](https://marcos.md)
 [![Twitter](https://img.shields.io/badge/-@marcos__placona-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/marcos_placona)
 [![LinkedIn](https://img.shields.io/badge/-Marcos_Placona-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosplacona/)
 [![Blog](https://img.shields.io/badge/-placona.co.uk-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://placona.co.uk)
@@ -83,7 +87,7 @@ Created and led international DevRel programs that helped establish Twilio as th
 <details>
 <summary>Fun Facts</summary>
 
-- 🇧🇷 Originally from Brazil, now based in London
+- 🇧🇷 Originally from Brazil, now based in Bedfordshire, UK
 - ☕ Powered by coffee and developer community vibes
 - 🎮 Building side projects because ideas don't build themselves
 - 🤝 Passionate about helping developers ship faster and scale effortlessly
